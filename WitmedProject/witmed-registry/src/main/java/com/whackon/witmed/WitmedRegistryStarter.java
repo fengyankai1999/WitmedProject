@@ -9,8 +9,6 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
  *
  * @author Lenovo
  * @date 2021/12/29
- * @version 1.0.0
- * @since 1.0.0
  */
 @EnableEurekaServer
 @SpringBootApplication

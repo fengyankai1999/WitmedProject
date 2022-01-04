@@ -4,9 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.whackon.witmed</groupId>
 	<artifactId>witmed-registry</artifactId>
-	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
 	<!-- 配置使用 Witmed Parent 作为项目父级依赖 [BEGIN] -->
